@@ -2,7 +2,7 @@
 `vizerfur` `classifier`
 
 
-[>PROCESS<](www.baidu.com)
+[>PROJECT PROCESS<](https://github.com/StrangeData-v/Energy-Score-Prediction/blob/master/energy_project.ipynb)
 
 
 ## INTRODUCTION:
