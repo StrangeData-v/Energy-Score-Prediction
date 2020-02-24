@@ -1,5 +1,5 @@
 # Energy-Score-Prediction
-`vizerfur` `classifier`
+`vizerfur`
 
 
 [>PROJECT PROCESS<](https://github.com/StrangeData-v/Energy-Score-Prediction/blob/master/energy_project.ipynb)
