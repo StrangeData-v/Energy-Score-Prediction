@@ -24,5 +24,5 @@ The building and working of a consturcture based on usage of energy such as elec
 ## RESULTS:
 | RATIO | VALUE |
 |---|----|
-|MAR | 9.3009 |
+|MAE | 9.3009 |
 |SCORE | 0.8605|
